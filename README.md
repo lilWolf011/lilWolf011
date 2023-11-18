@@ -1,6 +1,6 @@
 
 <h1 align="left">💫 About Me:</h1>
-<p>I am a UI designer and web developer who is passionate about creating beautiful and functional websites. With years of experience in the industry, I have developed a keen eye for design and a deep understanding of what it takes to create a successful online presence.</p>
+<p>Hello! I'm lil Wolf, a UI designer, web developer, and 3D model designer. I am a passionate professional dedicated to creating user-friendly web experiences and crafting visually stunning 3D models. I stand out with interactive and aesthetic projects.</p>
 <h1>🌐 Socials:</h1>
 <div>
   <a href="https://discord.com/users/535117705854844940">
