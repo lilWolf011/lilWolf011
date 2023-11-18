@@ -1,1 +1,1 @@
-<h1>$lil Wolf</h1>
+<h1 align="center">$lil Wolf</h1>
